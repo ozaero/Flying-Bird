@@ -1,0 +1,24 @@
+C:\Users\ozane\source\repos\Flying Bird\obj\Debug\Flying Bird.csproj.AssemblyReference.cache
+C:\Users\ozane\source\repos\Flying Bird\obj\Debug\Flying Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozane\source\repos\Flying Bird\obj\Debug\Flying_Bird.Game.resources
+C:\Users\ozane\source\repos\Flying Bird\obj\Debug\Flying_Bird.Properties.Resources.resources
+C:\Users\ozane\source\repos\Flying Bird\obj\Debug\Flying_Bird.StartPage.resources
+C:\Users\ozane\source\repos\Flying Bird\obj\Debug\Flying Bird.csproj.GenerateResource.cache
+C:\Users\ozane\source\repos\Flying Bird\obj\Debug\Flying Bird.csproj.CoreCompileInputs.cache
+C:\Users\ozane\source\repos\Flying Bird\bin\Debug\Flying Bird.exe.config
+C:\Users\ozane\source\repos\Flying Bird\bin\Debug\Flying Bird.exe
+C:\Users\ozane\source\repos\Flying Bird\bin\Debug\Flying Bird.pdb
+C:\Users\ozane\source\repos\Flying Bird\obj\Debug\Flying Bird.exe
+C:\Users\ozane\source\repos\Flying Bird\obj\Debug\Flying Bird.pdb
+C:\Users\ozane\Desktop\Flying Bird\bin\Debug\Flying Bird.exe.config
+C:\Users\ozane\Desktop\Flying Bird\bin\Debug\Flying Bird.exe
+C:\Users\ozane\Desktop\Flying Bird\bin\Debug\Flying Bird.pdb
+C:\Users\ozane\Desktop\Flying Bird\obj\Debug\Flying Bird.csproj.AssemblyReference.cache
+C:\Users\ozane\Desktop\Flying Bird\obj\Debug\Flying Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozane\Desktop\Flying Bird\obj\Debug\Flying_Bird.Game.resources
+C:\Users\ozane\Desktop\Flying Bird\obj\Debug\Flying_Bird.Properties.Resources.resources
+C:\Users\ozane\Desktop\Flying Bird\obj\Debug\Flying_Bird.StartPage.resources
+C:\Users\ozane\Desktop\Flying Bird\obj\Debug\Flying Bird.csproj.GenerateResource.cache
+C:\Users\ozane\Desktop\Flying Bird\obj\Debug\Flying Bird.csproj.CoreCompileInputs.cache
+C:\Users\ozane\Desktop\Flying Bird\obj\Debug\Flying Bird.exe
+C:\Users\ozane\Desktop\Flying Bird\obj\Debug\Flying Bird.pdb
